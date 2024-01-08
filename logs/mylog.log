@@ -1,0 +1,249 @@
+[INFO ] 2024-01-03 18:21:11.956 [main] StepDef - set up executed...
+[INFO ] 2024-01-03 18:21:12.301 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 18:21:45.092 [main] StepDef - set up executed...
+[INFO ] 2024-01-03 18:21:45.150 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 18:21:53.600 [main] StepDef - url oppend
+[INFO ] 2024-01-03 18:21:54.491 [main] StepDef - username and password entered
+[INFO ] 2024-01-03 18:21:58.882 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-03 18:21:58.930 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 18:23:10.798 [main] StepDef - set up executed...
+[INFO ] 2024-01-03 18:23:10.895 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 18:23:16.221 [main] StepDef - url oppend
+[INFO ] 2024-01-03 18:23:16.968 [main] StepDef - username and password entered
+[INFO ] 2024-01-03 18:23:20.958 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-03 18:23:21.557 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 18:23:24.315 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-03 18:23:24.366 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 18:23:24.874 [main] StepDef - Browser closed
+[FATAL] 2024-01-03 21:26:06.651 [main] StepDef - Setup executed...
+[INFO ] 2024-01-03 21:26:06.770 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 21:26:10.870 [main] StepDef - url oppend
+[INFO ] 2024-01-03 21:26:11.659 [main] StepDef - username and password entered
+[INFO ] 2024-01-03 21:26:15.338 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-03 21:26:15.383 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 21:26:17.777 [main] StepDef - clicked on logout buttonm link
+[FATAL] 2024-01-03 21:26:54.381 [main] StepDef - Setup executed...
+[INFO ] 2024-01-03 21:26:54.512 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 21:26:58.434 [main] StepDef - url oppend
+[INFO ] 2024-01-03 21:26:59.050 [main] StepDef - username and password entered
+[INFO ] 2024-01-03 21:27:01.502 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-03 21:27:01.552 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 21:27:04.517 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-03 21:27:04.615 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-03 21:27:04.785 [main] StepDef - Browser closed
+[FATAL] 2024-01-03 21:28:33.262 [main] StepDef - Setup executed...
+[INFO ] 2024-01-03 21:28:33.358 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-03 21:28:36.721 [main] StepDef - url oppend
+[INFO ] 2024-01-03 21:28:38.183 [main] StepDef - username and password entered
+[INFO ] 2024-01-03 21:28:41.886 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-03 21:28:42.000 [main] StepDef - Test Passed : login feature page title mached
+[FATAL] 2024-01-04 14:03:50.737 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 14:03:52.342 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 14:04:01.994 [main] StepDef - url oppend
+[INFO ] 2024-01-04 14:04:17.888 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 14:04:39.247 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 14:04:43.732 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 14:04:45.767 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 14:04:45.870 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 14:05:20.077 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 16:56:29.408 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 16:56:29.565 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 16:56:33.522 [main] StepDef - url oppend
+[INFO ] 2024-01-04 16:56:34.136 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 16:56:38.452 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 16:56:40.301 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 16:56:41.927 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 16:56:42.015 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 16:56:42.500 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 17:14:34.237 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 17:14:34.358 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 17:14:37.832 [main] StepDef - url oppend
+[INFO ] 2024-01-04 17:14:38.597 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 17:14:42.112 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 17:14:42.252 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 17:14:42.428 [main] StepDef - customer menu clicked
+[FATAL] 2024-01-04 17:14:59.591 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 17:14:59.616 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 17:15:05.262 [main] StepDef - url oppend
+[INFO ] 2024-01-04 17:15:06.059 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 17:15:09.529 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 17:15:11.401 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 17:15:12.965 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 17:15:13.097 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 17:15:13.494 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 17:15:41.940 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 17:15:42.027 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 17:15:45.893 [main] StepDef - url oppend
+[INFO ] 2024-01-04 17:15:46.596 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 17:15:50.223 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 17:15:52.126 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 17:15:52.341 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 17:15:56.754 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 17:16:00.790 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 17:16:00.835 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 17:16:04.236 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 17:16:05.289 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 17:16:06.480 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 17:16:06.948 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 17:16:09.286 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 17:16:09.296 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 17:16:13.651 [main] StepDef - url oppend
+[INFO ] 2024-01-04 17:16:14.581 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 17:16:16.928 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 17:16:16.964 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 17:16:18.890 [main] StepDef - clicked on logout buttonm link
+[FATAL] 2024-01-04 18:07:44.904 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:07:45.105 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:07:48.123 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:07:49.020 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:07:52.669 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:07:54.493 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:07:54.871 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:07:59.632 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:08:03.707 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:08:04.797 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:08:06.746 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:08:08.186 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:08:09.321 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:08:11.207 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:08:17.313 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:08:17.317 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:08:27.846 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:08:28.487 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:08:34.195 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:08:36.245 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:08:38.029 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 18:08:38.214 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:08:39.253 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:16:17.271 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:16:17.363 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:16:22.876 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:16:23.449 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:16:27.401 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:16:28.945 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:16:29.110 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:16:33.780 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:16:37.548 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:16:37.596 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:16:40.249 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:16:41.355 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:16:42.615 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:16:42.848 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:16:44.777 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:16:44.782 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:16:49.574 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:16:50.104 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:16:53.083 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:16:53.187 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:16:55.130 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 18:16:55.177 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:16:55.652 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:19:19.517 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:19:19.612 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:19:23.134 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:19:24.217 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:19:28.957 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:19:29.003 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:19:32.019 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:19:36.617 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:19:42.552 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:19:43.252 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:19:45.092 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:19:46.071 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:19:47.083 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:19:48.551 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:19:51.165 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:19:51.170 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:19:56.193 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:19:56.897 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:19:59.376 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:19:59.453 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:20:00.660 [main] StepDef - clicked on logout buttonm link
+[FATAL] 2024-01-04 18:21:41.306 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:21:41.390 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:21:44.868 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:21:45.436 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:21:47.896 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:21:49.495 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:21:49.674 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:21:53.816 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:21:57.732 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:21:57.795 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:22:00.353 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:22:01.401 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:22:02.236 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:22:02.489 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:22:04.518 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:22:04.523 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:22:08.653 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:22:09.372 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:22:12.139 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:22:13.020 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:22:15.200 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 18:22:15.312 [main] StepDef - Test Failed : login feature page title not mached
+[FATAL] 2024-01-04 18:31:09.633 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:31:09.700 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:31:13.221 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:31:13.771 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:31:17.775 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:31:19.461 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:31:19.629 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:31:23.868 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:31:27.882 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:31:27.922 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:31:30.677 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:31:31.708 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:31:32.834 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:31:33.197 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:31:34.680 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:31:34.686 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:31:39.126 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:31:39.711 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:31:42.756 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:31:44.227 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:31:45.801 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 18:31:45.883 [main] StepDef - Test Failed : login feature page title not mached
+[FATAL] 2024-01-04 18:37:09.108 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:37:09.245 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:37:13.677 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:37:14.401 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:37:18.968 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 18:37:20.574 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 18:37:20.747 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 18:37:25.310 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 18:37:29.167 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 18:37:29.261 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 18:37:32.819 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 18:37:34.289 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 18:37:35.545 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 18:37:35.799 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:37:38.434 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:37:38.439 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 18:37:45.397 [main] StepDef - url oppend
+[INFO ] 2024-01-04 18:37:45.997 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 18:37:49.572 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 18:37:56.122 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:37:57.965 [main] StepDef - clicked on logout buttonm link
+[WARN ] 2024-01-04 18:37:58.065 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 18:37:58.533 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 18:59:59.712 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 18:59:59.799 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 19:00:03.950 [main] StepDef - url oppend
+[INFO ] 2024-01-04 19:00:04.688 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 19:00:07.678 [main] StepDef - Clicked on login button
+[INFO ] 2024-01-04 19:00:09.172 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2024-01-04 19:00:09.341 [main] StepDef - customer menu clicked
+[INFO ] 2024-01-04 19:00:13.397 [main] StepDef - customer menu item clicked
+[INFO ] 2024-01-04 19:00:17.359 [main] StepDef - clicked on add new button.
+[INFO ] 2024-01-04 19:00:17.381 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2024-01-04 19:00:20.435 [main] StepDef - customer information entered
+[INFO ] 2024-01-04 19:00:21.651 [main] StepDef - clicked on save button
+[INFO ] 2024-01-04 19:00:22.652 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2024-01-04 19:00:23.247 [main] StepDef - Browser closed
+[FATAL] 2024-01-04 19:00:26.004 [main] StepDef - Setup executed...
+[INFO ] 2024-01-04 19:00:26.008 [main] StepDef - Chrome brower launched
+[INFO ] 2024-01-04 19:00:30.357 [main] StepDef - url oppend
+[INFO ] 2024-01-04 19:00:30.905 [main] StepDef - username and password entered
+[INFO ] 2024-01-04 19:00:33.404 [main] StepDef - Clicked on login button
+[WARN ] 2024-01-04 19:00:33.476 [main] StepDef - Test Passed : login feature page title mached
+[INFO ] 2024-01-04 19:00:35.122 [main] StepDef - clicked on logout buttonm link
